@@ -1,0 +1,21 @@
+@charset "utf-8";
+body{background-color: #84D0D9}
+
+.LOVE:link {
+	color: #E45E60;
+}
+.LOVE:visited {
+	color: #84D0D9;
+}
+.LOVE:hover {
+	color: #FFFFFF;
+}
+.FEAR:link{
+	color: #1B1B1B;
+}
+.FEAR:visited {
+	color: #84D0D9
+}
+.FEAR:hover {
+	color: #8828A2
+}
